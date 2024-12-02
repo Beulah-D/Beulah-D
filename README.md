@@ -63,8 +63,9 @@ Beyond analytics, I’m a badminton player, a creative baker, and great with kid
 
 <h2>📄 Resume</h2>
 <p>
-You can view my resume <a href="https://github.com/YourUsername/Resume-/raw/main/Beulah_resume(MS-final).pdf" target="_blank" rel="noopener noreferrer">here</a>.
+You can view my resume <a href="https://github.com/Beulah-D/Resume-/raw/main/Beulah_resume(MS-final).pdf" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
+
 
 ---
 
