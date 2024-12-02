@@ -2,14 +2,14 @@
 
 ---
 
-<h2>🚀 About Me</h2>
+<h2>🚀 Who I Am</h2>
 <p>
 I'm Beulah, a Master's student in Analytics at the University of Southern Caifornia. I’ve always been fascinated by the power of data to uncover insights and tell stories that drive meaningful change. Turning complex data into clear, actionable insights through creative visualizations is something I genuinely love doing. With experience in data analytics, business intelligence, and data science, I’m passionate about using data to solve problems, support decisions, and make real impact in industries.
 </p>
 
 ---
 
-<h2>🌟 Current Interests</h2>
+<h2>🌟 My Focus Areas</h2>
 <p>
 Customer experiences and creativity have always been at the heart of who I am. Even as a kid, I loved solving problems and finding new ways to make things better. Over time, I realized that creativity and innovation aren’t just passions, they’re how I approach everything I do. When I discovered analytics, especially product and data analytics, it felt like I had found what I truly enjoy doing. It’s such a powerful way to connect creativity with problem-solving, using data to uncover insights and tell stories that truly matter. I’m deeply drawn to working in this space—where business intelligence, analytics, and human behavior come together to drive real impact. For me, it’s about more than just data. It’s about understanding people, creating meaningful solutions, and making a difference in the way businesses and their customers connect.
 </p>
