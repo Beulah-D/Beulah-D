@@ -2,7 +2,7 @@
 
 ---
 
-<h2>🚀 Who I Am</h2>
+<h2>✨ Who I Am</h2>
 <p>
 I'm Beulah, a Master's student in Analytics at the University of Southern Caifornia. I’ve always been fascinated by the power of data to uncover insights and tell stories that drive meaningful change. Turning complex data into clear, actionable insights through creative visualizations is something I genuinely love doing. With experience in data analytics, business intelligence, and data science, I’m passionate about using data to solve problems, support decisions, and make real impact in industries.
 </p>
@@ -16,7 +16,7 @@ Customer experiences and creativity have always been at the heart of who I am. E
 
 ---
 
-<h2>🌄 My Passion</h2>
+<h2>🌄 Outside the Numbers </h2>
 <p>
 Beyond analytics, I’m a badminton player, a creative baker, and great with kids. I also love the thrill of skydiving, exploring new trails, and perfecting recipes that inspire.
 </p>
