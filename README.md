@@ -58,8 +58,6 @@ Beyond analytics, I’m a badminton player, a creative baker, and great with kid
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
   </a>
 </p>
-z
----
 
 <h2>📄 Resume</h2>
 <p>
