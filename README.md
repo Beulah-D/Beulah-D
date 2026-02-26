@@ -61,7 +61,7 @@ Beyond analytics, I’m a badminton player, a creative baker, and great with kid
 
 <h2>📄 Resume</h2>
 <p>
-You can view my resume <a href="https://github.com/user-attachments/files/21454272/Beulah_Resume_Graduate(2026)S&O.pdf"
+You can view my resume <a href="https://github.com/user-attachments/files/21454272/Beulah_Resume_Graduate(2026)S%26O.pdf"
  target="_blank" rel="noopener noreferrer">here</a>.
 </p>
 
